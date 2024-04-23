@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangameshdevappa
-- 👀 I’m interested in ...learnung new things
+- 👀 I’m interested in ...learning new things
 - 🌱 I’m currently learning ...java full stack
 - 💞️ I’m looking to collaborate on ...any projects
 - 📫 How to reach me ...devappasangamesh698@gmail.com
